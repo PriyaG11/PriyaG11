@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka Gannavarapu</h1>
 <h3 align="center">A passionate Data Scientist and Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyaG11&label=Profile%20views&color=0e75b6&style=flat" alt="priyankagannavarapu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gannavarapu-priya&label=Profile%20views&color=0e75b6&style=flat" alt="priyankagannavarapu" /> </p>
 
 - 🔧 I’m currently working on **Deep Learning Projects and Statistical Models**
 
@@ -40,5 +40,5 @@
   <li>IBM Data Science Professional Certificate</li>
 </ul>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyaG11&show_icons=true&locale=en&layout=compact" alt="priyankagannavarapu" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PriyaG11&show_icons=true&locale=en" alt="priyankagannavarapu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gannavarapu-priya&show_icons=true&locale=en&layout=compact" alt="priyankagannavarapu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gannavarapu-priya&show_icons=true&locale=en" alt="priyankagannavarapu" /></p>
